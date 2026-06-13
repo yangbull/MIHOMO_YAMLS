@@ -8,13 +8,13 @@
 
 | 特性 | `clash-fallback-smart-std.yaml` | `clash-all-fallback-smart.yaml` | `clash-all-smart.yaml` | `smart.yaml` | `OneSmart_Config.yaml` | `OneSmart_Lite_Config.yaml` | `mihomo_smart.yaml` | `MihomoSmartProPlus.yaml` | `MihomoSmartAIO.yaml` | `MihomoSmartProMax.yaml` | `THESmart.yaml` | `OneSmartProMCX.yaml` |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| **大小** | 17.7 KB | 18.2 KB | 15.1 KB | 13.0 KB | 20.2 KB | 12.5 KB | 10.8 KB | 24.1 KB | 30.2 KB | 23.6 KB | 24.9 KB | 41.1 KB |
+| **大小** | 17.7 KB | 18.2 KB | 15.1 KB | 13.0 KB | 20.2 KB | 12.5 KB | 10.5 KB | 24.1 KB | 30.2 KB | 23.6 KB | 24.9 KB | 41.1 KB |
 | **混合端口** | 7893 | 7893 | 7893 | 7890 | 7893 | 7893 | 0 | 7893 | 7893 | 7893 | 7893 | 7893 |
 | **面板地址** | 0.0.0.0:9090 | 0.0.0.0:9090 | 0.0.0.0:9090 | - | 127.0.0.1:9090 | 127.0.0.1:9090 | - | 127.0.0.1:9090 | 127.0.0.1:9090 | 127.0.0.1:9090 | 0.0.0.0:9090 | 0.0.0.0:9090 |
 | **运行模式** | rule | rule | rule | rule | rule | rule | rule | rule | rule | rule | rule | rule |
 | **TUN** | ✅ | ✅ | ✅ | ✅ | 🚫 | 🚫 | ✅ | 🚫 | 🚫 | 🚫 | ✅ | ✅ |
 | **策略组** | **36** | **57** | **38** | **28** | **31** | **16** | **19** | **41** | **69** | **41** | **40** | **32** |
-| **规则数** | **42** | **48** | **43** | **23** | **36** | **21** | **11** | **44** | **52** | **45** | **43** | **107** |
+| **规则数** | **42** | **48** | **43** | **23** | **36** | **21** | **10** | **44** | **52** | **45** | **43** | **107** |
 
 ## 📄 配置详情
 
@@ -208,7 +208,7 @@
 ### 👤 echs-top
 
 #### 📝 mihomo_smart.yaml
-- **路径**: `echs-top/mihomo_smart.yaml` | **大小**: 10.8 KB | [查看源码](https://github.com/yangbull/MIHOMO_YAMLS/blob/main/THEYAMLS/Smart_Mode/echs-top/mihomo_smart.yaml)
+- **路径**: `echs-top/mihomo_smart.yaml` | **大小**: 10.5 KB | [查看源码](https://github.com/yangbull/MIHOMO_YAMLS/blob/main/THEYAMLS/Smart_Mode/echs-top/mihomo_smart.yaml)
 - **模式**: rule | **TUN**: ✅ | **IPv6**: ✅
 <details>
 <summary>🔍 策略组 (19个)</summary>
