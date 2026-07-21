@@ -8,7 +8,7 @@
 
 | 特性 | `mihomo_multi.yaml` | `mihomo_single.yaml` | `config.yaml` | `configfull_NoAd.yaml` | `configfull.yaml` | `configfull_lite.yaml` | `Seven1_fallback_Geo.yaml` | `Seven1_fallback_Rule-Set.yaml` | `config.yaml` | `Clash.yaml` | `mihomo.yaml` | `config.yaml` | `AIB.yaml` | `AIO.yaml` | `OneTouch_Config.yaml` | `MihomoPro_Config.yaml` | `config_lite.yaml` | `config.yaml` | `config.yaml` | `Clash_Sample.yaml` | `backup.yaml` | `ConfigForClash.yaml` | `config.yaml` | `Clash-Airport.yaml` | `us_la.yaml` | `MihomoProMax.yaml` | `MihomoAIO.yaml` | `MihomoProPlus.yaml` | `clash-fallback-std.yaml` | `clash-fallback.yaml` | `clash-fallback-all.yaml` | `clash-fallback-dialer.yaml` | `clash-all-fallback.yaml` | `mihomo.yaml` |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| **大小** | 12.7 KB | 12.4 KB | 18.7 KB | 34.1 KB | 34.6 KB | 17.7 KB | 20.8 KB | 24.0 KB | 23.4 KB | 27.3 KB | 15.8 KB | 28.5 KB | 11.0 KB | 10.8 KB | 12.2 KB | 22.3 KB | 2.9 KB | 7.3 KB | 13.8 KB | 8.4 KB | 12.5 KB | 49.3 KB | 12.8 KB | 17.5 KB | 18.5 KB | 25.7 KB | 28.3 KB | 26.2 KB | 17.3 KB | 15.9 KB | 18.6 KB | 16.3 KB | 17.2 KB | 14.6 KB |
+| **大小** | 12.7 KB | 12.4 KB | 18.7 KB | 34.1 KB | 34.6 KB | 17.7 KB | 20.9 KB | 24.1 KB | 23.4 KB | 27.3 KB | 15.8 KB | 28.5 KB | 11.0 KB | 10.8 KB | 12.2 KB | 22.3 KB | 2.9 KB | 7.3 KB | 13.8 KB | 8.4 KB | 12.5 KB | 49.3 KB | 12.8 KB | 17.5 KB | 18.5 KB | 25.7 KB | 28.3 KB | 26.2 KB | 17.3 KB | 15.9 KB | 18.6 KB | 16.3 KB | 17.2 KB | 14.6 KB |
 | **混合端口** | 7897 | 7897 | 7892 | 7890 | 7890 | 7890 | 7893 | 7893 | 7890 | 7890 | 7890 | 7893 | 7890 | 7890 | 7893 | 7893 | 7893 | 7893 | 7890 | 7892 | 7892 | 7892 | 7890 | - | - | 7893 | 7893 | 7893 | 7893 | 7893 | 7893 | 7893 | 7893 | 0 |
 | **面板地址** | - | - | 127.0.0.1:9090 | 0.0.0.0:9090 | 0.0.0.0:9090 | 0.0.0.0:9090 | 0.0.0.0:9090 | 0.0.0.0:9090 | 0.0.0.0:9090 | :9090 | 0.0.0.0:9090 | 127.0.0.1:9090 | 0.0.0.0:9090 | 0.0.0.0:9090 | 127.0.0.1:9090 | 127.0.0.1:9090 | - | - | :9090 | 0.0.0.0:9090 | 0.0.0.0:9090 | 0.0.0.0:9090 | - | 127.0.0.1:9092 | 127.0.0.1:9092 | 127.0.0.1:9090 | 127.0.0.1:9090 | 127.0.0.1:9090 | 0.0.0.0:9090 | 0.0.0.0:9090 | 0.0.0.0:9090 | 0.0.0.0:9090 | 0.0.0.0:9090 | - |
 | **运行模式** | rule | rule | rule | rule | rule | rule | rule | rule | rule | Rule | rule | rule | rule | rule | rule | rule | rule | rule | rule | rule | rule | rule | rule | rule | rule | rule | rule | rule | rule | rule | rule | rule | rule | rule |
@@ -530,7 +530,7 @@
 ### 👤 Seven1echo
 
 #### 📝 Seven1_fallback_Geo.yaml
-- **路径**: `Seven1echo/Seven1_fallback_Geo.yaml` | **大小**: 20.8 KB | [查看源码](https://github.com/yangbull/MIHOMO_YAMLS/blob/main/THEYAMLS/General_Config/Seven1echo/Seven1_fallback_Geo.yaml)
+- **路径**: `Seven1echo/Seven1_fallback_Geo.yaml` | **大小**: 20.9 KB | [查看源码](https://github.com/yangbull/MIHOMO_YAMLS/blob/main/THEYAMLS/General_Config/Seven1echo/Seven1_fallback_Geo.yaml)
 - **模式**: rule | **TUN**: ✅ | **IPv6**: ✅
 <details>
 <summary>🔍 策略组 (43个)</summary>
@@ -561,7 +561,7 @@
 </details>
 
 #### 📝 Seven1_fallback_Rule-Set.yaml
-- **路径**: `Seven1echo/Seven1_fallback_Rule-Set.yaml` | **大小**: 24.0 KB | [查看源码](https://github.com/yangbull/MIHOMO_YAMLS/blob/main/THEYAMLS/General_Config/Seven1echo/Seven1_fallback_Rule-Set.yaml)
+- **路径**: `Seven1echo/Seven1_fallback_Rule-Set.yaml` | **大小**: 24.1 KB | [查看源码](https://github.com/yangbull/MIHOMO_YAMLS/blob/main/THEYAMLS/General_Config/Seven1echo/Seven1_fallback_Rule-Set.yaml)
 - **模式**: rule | **TUN**: ✅ | **IPv6**: ✅
 <details>
 <summary>🔍 策略组 (43个)</summary>
