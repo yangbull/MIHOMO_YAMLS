@@ -8,7 +8,7 @@
 
 | 特性 | `clash-fallback-all.yaml` | `clash-fallback.yaml` | `clash-all-fallback.yaml` | `clash-fallback-dialer.yaml` | `clash-fallback-std.yaml` | `config.yaml` | `config.yaml` | `AIO.yaml` | `AIB.yaml` | `Seven1_fallback_Geo.yaml` | `Seven1_fallback_Rule-Set.yaml` | `config.yaml` | `config.yaml` | `MihomoProMax.yaml` | `MihomoAIO.yaml` | `MihomoProPlus.yaml` | `config_lite.yaml` | `config.yaml` | `mihomo.yaml` | `ConfigForClash.yaml` | `config.yaml` | `configfull_NoAd.yaml` | `configfull_lite.yaml` | `configfull.yaml` | `Clash.yaml` | `MihomoPro_Config.yaml` | `OneTouch_Config.yaml` | `backup.yaml` | `Clash_Sample.yaml` | `us_la.yaml` | `Clash-Airport.yaml` | `mihomo_multi.yaml` | `mihomo_single.yaml` | `mihomo.yaml` |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| **大小** | 18.6 KB | 15.9 KB | 17.2 KB | 16.3 KB | 17.3 KB | 13.8 KB | 28.5 KB | 10.8 KB | 11.0 KB | 22.1 KB | 25.2 KB | 18.7 KB | 12.8 KB | 25.7 KB | 28.3 KB | 26.2 KB | 2.9 KB | 8.0 KB | 15.1 KB | 49.3 KB | 24.8 KB | 34.9 KB | 18.6 KB | 35.4 KB | 27.3 KB | 22.3 KB | 12.2 KB | 12.5 KB | 8.4 KB | 18.5 KB | 17.5 KB | 12.7 KB | 12.4 KB | 14.6 KB |
+| **大小** | 18.6 KB | 15.9 KB | 17.2 KB | 16.3 KB | 17.3 KB | 13.8 KB | 28.5 KB | 10.8 KB | 11.0 KB | 22.1 KB | 25.2 KB | 18.7 KB | 12.8 KB | 25.7 KB | 28.3 KB | 26.2 KB | 2.9 KB | 8.0 KB | 15.1 KB | 49.3 KB | 24.6 KB | 34.9 KB | 18.6 KB | 35.4 KB | 27.3 KB | 22.3 KB | 12.2 KB | 12.5 KB | 8.4 KB | 18.5 KB | 17.5 KB | 12.7 KB | 12.4 KB | 14.6 KB |
 | **混合端口** | 7893 | 7893 | 7893 | 7893 | 7893 | 7890 | 7893 | 7890 | 7890 | 7893 | 7893 | 7892 | 7890 | 7893 | 7893 | 7893 | 7893 | 7893 | 7890 | 7892 | 7890 | 7890 | 7890 | 7890 | 7890 | 7893 | 7893 | 7892 | 7892 | - | - | 7897 | 7897 | 0 |
 | **面板地址** | 0.0.0.0:9090 | 0.0.0.0:9090 | 0.0.0.0:9090 | 0.0.0.0:9090 | 0.0.0.0:9090 | :9090 | 127.0.0.1:9090 | 0.0.0.0:9090 | 0.0.0.0:9090 | 0.0.0.0:9090 | 0.0.0.0:9090 | 127.0.0.1:9090 | - | 127.0.0.1:9090 | 127.0.0.1:9090 | 127.0.0.1:9090 | - | - | 0.0.0.0:9090 | 0.0.0.0:9090 | 0.0.0.0:9090 | 0.0.0.0:9090 | 0.0.0.0:9090 | 0.0.0.0:9090 | :9090 | 127.0.0.1:9090 | 127.0.0.1:9090 | 0.0.0.0:9090 | 0.0.0.0:9090 | 127.0.0.1:9092 | 127.0.0.1:9092 | - | - | - |
 | **运行模式** | rule | rule | rule | rule | rule | rule | rule | rule | rule | rule | rule | rule | rule | rule | rule | rule | rule | rule | rule | rule | rule | rule | rule | rule | Rule | rule | rule | rule | rule | rule | rule | rule | rule | rule |
@@ -980,7 +980,7 @@
 ### 👤 wanswu
 
 #### 📝 config.yaml
-- **路径**: `wanswu/config.yaml` | **大小**: 24.8 KB | [查看源码](https://github.com/yangbull/MIHOMO_YAMLS/blob/main/THEYAMLS/General_Config/wanswu/config.yaml)
+- **路径**: `wanswu/config.yaml` | **大小**: 24.6 KB | [查看源码](https://github.com/yangbull/MIHOMO_YAMLS/blob/main/THEYAMLS/General_Config/wanswu/config.yaml)
 - **模式**: rule | **TUN**: ✅ | **IPv6**: 🚫
 <details>
 <summary>🔍 策略组 (49个)</summary>
