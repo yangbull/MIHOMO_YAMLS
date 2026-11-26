@@ -8,12 +8,12 @@
 
 | 特性 | `us_la.yaml` | `Clash-Airport.yaml` | `mihomo.yaml` | `mihomo.yaml` | `clash-fallback-std.yaml` | `clash-fallback-dialer.yaml` | `clash-fallback-all.yaml` | `clash-all-fallback.yaml` | `clash-fallback.yaml` | `MihomoProMax.yaml` | `MihomoAIO.yaml` | `MihomoProPlus.yaml` | `ConfigForClash.yaml` | `Seven1_fallback_Geo.yaml` | `Seven1_fallback_Rule-Set.yaml` | `config.yaml` | `config.yaml` | `config.yaml` | `OneTouch_Config.yaml` | `MihomoPro_Config.yaml` | `AIO.yaml` | `AIB.yaml` | `configfull_lite.yaml` | `configfull.yaml` | `configfull_NoAd.yaml` | `backup.yaml` | `Clash_Sample.yaml` | `config.yaml` | `config_lite.yaml` | `config.yaml` | `mihomo_single.yaml` | `mihomo_multi.yaml` | `Clash.yaml` | `config.yaml` |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| **大小** | 18.5 KB | 17.5 KB | 15.7 KB | 14.6 KB | 17.3 KB | 16.3 KB | 18.6 KB | 17.2 KB | 15.9 KB | 25.7 KB | 28.3 KB | 26.2 KB | 49.3 KB | 22.1 KB | 24.7 KB | 28.5 KB | 18.7 KB | 12.8 KB | 12.2 KB | 22.3 KB | 10.8 KB | 11.0 KB | 18.6 KB | 35.4 KB | 34.9 KB | 12.5 KB | 8.4 KB | 8.0 KB | 2.9 KB | 26.3 KB | 12.4 KB | 12.7 KB | 27.3 KB | 13.8 KB |
+| **大小** | 18.5 KB | 17.5 KB | 15.7 KB | 14.6 KB | 17.3 KB | 16.3 KB | 18.6 KB | 17.2 KB | 15.9 KB | 25.7 KB | 28.3 KB | 26.2 KB | 49.3 KB | 22.1 KB | 24.7 KB | 28.5 KB | 18.7 KB | 12.8 KB | 12.2 KB | 22.3 KB | 10.8 KB | 11.0 KB | 18.6 KB | 35.4 KB | 34.9 KB | 12.5 KB | 8.4 KB | 8.0 KB | 2.9 KB | 26.5 KB | 12.4 KB | 12.7 KB | 27.3 KB | 13.8 KB |
 | **混合端口** | - | - | 7890 | 0 | 7893 | 7893 | 7893 | 7893 | 7893 | 7893 | 7893 | 7893 | 7892 | 7893 | 7893 | 7893 | 7892 | 7890 | 7893 | 7893 | 7890 | 7890 | 7890 | 7890 | 7890 | 7892 | 7892 | 7893 | 7893 | 7890 | 7897 | 7897 | 7890 | 7890 |
 | **面板地址** | 127.0.0.1:9092 | 127.0.0.1:9092 | 0.0.0.0:9090 | - | 0.0.0.0:9090 | 0.0.0.0:9090 | 0.0.0.0:9090 | 0.0.0.0:9090 | 0.0.0.0:9090 | 127.0.0.1:9090 | 127.0.0.1:9090 | 127.0.0.1:9090 | 0.0.0.0:9090 | 0.0.0.0:9090 | 0.0.0.0:9090 | 127.0.0.1:9090 | 127.0.0.1:9090 | - | 127.0.0.1:9090 | 127.0.0.1:9090 | 0.0.0.0:9090 | 0.0.0.0:9090 | 0.0.0.0:9090 | 0.0.0.0:9090 | 0.0.0.0:9090 | 0.0.0.0:9090 | 0.0.0.0:9090 | - | - | 0.0.0.0:9090 | - | - | :9090 | :9090 |
 | **运行模式** | rule | rule | rule | rule | rule | rule | rule | rule | rule | rule | rule | rule | rule | rule | rule | rule | rule | rule | rule | rule | rule | rule | rule | rule | rule | rule | rule | rule | rule | rule | rule | rule | Rule | rule |
 | **TUN** | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | 🚫 | 🚫 | 🚫 | 🚫 | ✅ | ✅ | ✅ | 🚫 | ✅ | 🚫 | 🚫 | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | 🚫 | ✅ | ✅ | 🚫 | 🚫 |
-| **策略组** | **15** | **23** | **19** | **35** | **36** | **35** | **61** | **53** | **34** | **54** | **61** | **54** | **62** | **41** | **41** | **25** | **13** | **26** | **14** | **51** | **23** | **24** | **47** | **62** | **59** | **22** | **15** | **17** | **1** | **51** | **33** | **33** | **27** | **29** |
+| **策略组** | **15** | **23** | **19** | **35** | **36** | **35** | **61** | **53** | **34** | **54** | **61** | **54** | **62** | **41** | **41** | **25** | **13** | **26** | **14** | **51** | **23** | **24** | **47** | **62** | **59** | **22** | **15** | **17** | **1** | **52** | **33** | **33** | **27** | **29** |
 | **规则数** | **34** | **36** | **27** | **17** | **43** | **43** | **53** | **42** | **43** | **45** | **52** | **44** | **62** | **28** | **28** | **35** | **37** | **23** | **23** | **40** | **34** | **34** | **38** | **96** | **95** | **25** | **11** | **24** | **16** | **42** | **22** | **22** | **68** | **33** |
 
 ## 📄 配置详情
@@ -980,10 +980,10 @@
 ### 👤 wanswu
 
 #### 📝 config.yaml
-- **路径**: `wanswu/config.yaml` | **大小**: 26.3 KB | [查看源码](https://github.com/yangbull/MIHOMO_YAMLS/blob/main/THEYAMLS/General_Config/wanswu/config.yaml)
+- **路径**: `wanswu/config.yaml` | **大小**: 26.5 KB | [查看源码](https://github.com/yangbull/MIHOMO_YAMLS/blob/main/THEYAMLS/General_Config/wanswu/config.yaml)
 - **模式**: rule | **TUN**: 🚫 | **IPv6**: 🚫
 <details>
-<summary>🔍 策略组 (51个)</summary>
+<summary>🔍 策略组 (52个)</summary>
 
 | 名称 | 类型 |
 | :--- | :--- |
@@ -1007,7 +1007,7 @@
 | 👆 Twitter(X) | `select` |
 | 👆 Telegram | `select` |
 | 👆 WhatsApp | `select` |
-| ... | 还有 31 个 |
+| ... | 还有 32 个 |
 </details>
 
 ---
